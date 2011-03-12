@@ -1,3 +1,4 @@
+#include <stdio.h>
 /*
  *Author:junstrix@gmail.com
  *Blog:http://imljp.info
